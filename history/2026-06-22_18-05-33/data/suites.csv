@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5117","test_authorization","tests","2026-06-22","passed","2026-06-22","","test_authorization","",""
+"","4371","test_wrong_email_or_password_authorization[HIDDEN]","tests","2026-06-22","passed","2026-06-22","","test_authorization","",""
+"","4528","test_wrong_email_or_password_authorization[HIDDEN]","tests","2026-06-22","passed","2026-06-22","","test_authorization","",""
+"","3838","test_wrong_email_or_password_authorization[HIDDEN]","tests","2026-06-22","passed","2026-06-22","","test_authorization","",""
+"","2764","test_context","tests","2026-06-22","passed","2026-06-22","","test_authorization","",""

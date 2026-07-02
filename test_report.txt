@@ -1,0 +1,141 @@
+======================================================================
+ОТЧЕТ О ТЕСТИРОВАНИИ (по пакетам)
+Дата: $(date +'%Y-%m-%d %H:%M:%S')
+======================================================================
+
+ОБЩАЯ СТАТИСТИКА:
+  Всего тестов: 87
+  ✅ Пройдено: 87
+  ❌ Упало:   0
+  Процент успешных: 100%
+
+======================================================================
+ПАКЕТ: test_lk.test_sidebar.test_sidebar_navigation
+Тестов: 10 | Пройдено: 10 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+  ✅ test_sidebar_navigation[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_elements_visible.test_footer
+Тестов: 33 | Пройдено: 33 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible_with_text[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+  ✅ test_footer_element_visible[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_lk.test_header.test_locale
+Тестов: 11 | Пройдено: 11 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+  ✅ test_locale_switch[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_elements_visible.test_sidebar
+Тестов: 17 | Пройдено: 17 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible[HIDDEN]
+  ✅ test_sidebar_element_visible[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+  ✅ test_sidebar_element_visible[HIDDEN]
+  ✅ test_sidebar_element_visible_with_text[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_authorization.test_authorization
+Тестов: 5 | Пройдено: 5 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_wrong_email_or_password_authorization[HIDDEN]
+  ✅ test_authorization[HIDDEN]
+  ✅ test_wrong_email_or_password_authorization[HIDDEN]
+  ✅ test_context[HIDDEN]
+  ✅ test_wrong_email_or_password_authorization[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_lk.test_header.test_notification_window
+Тестов: 1 | Пройдено: 1 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_notifications_panel[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_elements_visible.test_header
+Тестов: 9 | Пройдено: 9 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_header_element_visible[HIDDEN]
+  ✅ test_header_element_visible[HIDDEN]
+  ✅ test_header_element_visible_with_text[HIDDEN]
+  ✅ test_header_element_visible_with_text[HIDDEN]
+  ✅ test_header_element_visible_with_text[HIDDEN]
+  ✅ test_header_element_visible[HIDDEN]
+  ✅ test_header_element_visible[HIDDEN]
+  ✅ test_header_element_visible[HIDDEN]
+  ✅ test_header_element_visible_with_text[HIDDEN]
+
+======================================================================
+ПАКЕТ: test_lk.test_header.test_header
+Тестов: 1 | Пройдено: 1 | Упало: 0
+----------------------------------------------------------------------
+  ✅ test_logout[HIDDEN]
+
+======================================================================
+КОНЕЦ ОТЧЕТА
+======================================================================
