@@ -1,0 +1,1 @@
+[FIXTURE] context_page_module CLOSE

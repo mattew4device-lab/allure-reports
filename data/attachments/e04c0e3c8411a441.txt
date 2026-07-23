@@ -1,0 +1,5 @@
+  [FIXTURE] context_page START
+  [FIXTURE] context_page CLOSE
+[FIXTURE] context_page_module CLOSE
+
+[FIXTURE] browser CLOSE: chromium

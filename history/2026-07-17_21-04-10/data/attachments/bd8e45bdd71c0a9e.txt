@@ -1,0 +1,7 @@
+
+[FIXTURE] browser START: webkit
+
+[FIXTURE] saved_auth_state START
+[FIXTURE] saved_auth_state DONE
+  [FIXTURE] context_page START
+  [FIXTURE] context_page CLOSE

@@ -1,0 +1,6 @@
+
+[FIXTURE] browser CLOSE: chromium
+
+[FIXTURE] browser START: firefox
+  [FIXTURE] chromium_page START
+  [FIXTURE] chromium_page CLOSE

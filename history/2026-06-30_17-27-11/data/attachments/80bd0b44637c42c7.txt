@@ -1,0 +1,7 @@
+Всего проектов: 84
+Найдено опций: 6: ['All sectors', 'Bridge loan', 'Equipment', 'Growth loan', 'QA Lending Type', 'Working capital']
+Найдено 4 карточек, все содержат 'Bridge loan'
+Найдено 6 карточек, все содержат 'Equipment'
+Найдено 4 карточек, все содержат 'Growth loan'
+Найдено 64 карточек, все содержат 'QA Lending Type'
+Найдено 6 карточек, все содержат 'Working capital'

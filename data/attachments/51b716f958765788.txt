@@ -1,0 +1,9 @@
+
+[FIXTURE] browser CLOSE: webkit
+
+[FIXTURE] browser START: chromium
+
+[FIXTURE] saved_auth_state START
+[FIXTURE] saved_auth_state DONE
+
+[FIXTURE] context_page_module START

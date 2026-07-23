@@ -1,0 +1,4 @@
+  [FIXTURE] context_page START
+  [FIXTURE] context_page CLOSE
+
+[FIXTURE] browser CLOSE: webkit

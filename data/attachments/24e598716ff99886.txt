@@ -1,0 +1,3 @@
+[FIXTURE] context_page_module CLOSE
+
+[FIXTURE] browser CLOSE: firefox
