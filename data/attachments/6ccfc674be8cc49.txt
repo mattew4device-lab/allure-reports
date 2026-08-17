@@ -1,0 +1,6 @@
+DEBUG filter_key: Term
+DEBUG всего button-sort: 4
+DEBUG btn[0]: Sector: All
+DEBUG btn[1]: Status: All
+DEBUG btn[2]: Term: All
+DEBUG btn[3]: Sort: Soonest payment

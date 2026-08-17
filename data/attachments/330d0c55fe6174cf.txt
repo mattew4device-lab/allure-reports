@@ -1,0 +1,2 @@
+[REFRESH] Request: POST https://app.wellor.io/api/auth/v1/refresh-token
+[REFRESH] Response: 200 https://app.wellor.io/api/auth/v1/refresh-token
